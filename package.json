@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-npm-starter",
+  "name": "bootstrap-customize",
   "version": "1.4.1",
   "private": true,
   "description": "Demo project for building a Bootstrap powered site via npm.",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twbs/bootstrap-npm-starter.git"
+    "url": "git+https://github.com/Daria-Khrushch/bootstrap-customize.git"
   },
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap-npm-starter/issues"
+    "url": "https://github.com/Daria-Khrushch/bootstrap-customize/issues"
   },
-  "homepage": "https://github.com/twbs/bootstrap-npm-starter#readme",
+  "homepage": "https://github.com/Daria-Khrushch/bootstrap-customize",
   "scripts": {
     "build": "npm run css",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o assets/css/",
